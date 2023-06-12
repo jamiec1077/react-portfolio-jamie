@@ -6,7 +6,7 @@ function About(){
     return(
         <section className="my-5 intro">
             <div>
-                <h1>jamie charlemagne</h1>
+                <h1>Amala Hema Francis</h1>
             </div>
             <div>
               <div class="intro-info">
@@ -15,11 +15,11 @@ function About(){
                 </div>
                 <p className="about-me">
                 As a quick learner and dedicated worker, I bring a unique blend of skills,
-                experience, and passion to every project I undertake. With a Bachelors degree in
+                experience, and passion to every project I undertake. With a Master's degree in
                 Computer Application and expertise in HTML, CSS, JavaScript, Angular, and React,
                 I am well-equipped to develop and deploy robust web applications. I have a proven
                 track record of success in delivering high-quality code on time and within budget.
-                Outside of work, I enjoy reading books and playing video games.
+                Outside of work, I enjoy reading books and exploring new recipes in the kitchen.
                 I find that these hobbies help me stay creative and inspired, and allow me to bring
                 fresh perspectives to my work. Whether working independently or as part of a team,
                 I am committed to delivering exceptional results and exceeding expectations.
