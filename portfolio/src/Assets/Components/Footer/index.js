@@ -4,7 +4,7 @@ function Footer() {
   <footer>  
    <nav>
     <ul>
-      <li><a href="https://github.com/amalahema">Github</a></li>
+      <li><a href="https://github.com/jamiec1077">Github</a></li>
      
     </ul>
    </nav>

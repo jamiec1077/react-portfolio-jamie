@@ -8,7 +8,7 @@ function Portfolio()
           <div>
           <div className="project-info">
             <div className="project-img">
-              <a href="https://github.com/amalahema/go-super-team-1-">
+              <a href="https://github.com/jamiec1077/go-super-team-1-">
                 {" "}
                 <img
                   src={workout}
@@ -27,7 +27,7 @@ function Portfolio()
           </div>
           <div className="project-info">
             <div className="project-img">
-              <a href="https://github.com/amalahema/Jungslist">
+              <a href="https://github.com/jamiec1077/Jungslist">
                 {" "}
                 <img
                   src={sales}

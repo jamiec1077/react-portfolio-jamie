@@ -59,12 +59,12 @@ function Contact() {
           <h3>Hello {userName}</h3>
           <p>Want to get into contact?</p>
           <address>
-            Cumming ,GA <br />
-            P: <a href="tel:989.654.3355">989.654.3355</a>
+            Atlanta ,GA <br />
+            P: <a href="tel:678.618.5865">678.618.5865</a>
             <br />
             E:{" "}
-            <a href="mailto://amalahema @yahoo.com">
-             amalahema @yahoo.com
+            <a href="jamie.charlemagne1992@gmail.com">
+             jamiecharlemagne @gmail.com
             </a>
           </address>
           <p>
